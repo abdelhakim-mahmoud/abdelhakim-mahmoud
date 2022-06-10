@@ -1,10 +1,8 @@
-### Hi there 👋
+![Hey there, I'm Abdelhakim. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
-**mazazikaa/mazazikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/7kawysh3by" target="blank"><img src="https://img.shields.io/twitter/follow/7kawysh3by?logo=twitter&style=for-the-badge" alt="7kawysh3by" /></a> </p>
 
-- 🔭 I’m currently working on [ZAG SOUQ Web app](www.zagsouq.com)
+- 🔭 I’m currently working on [ZAG SOUQ Web app](https://www.zagsouq.com)
 
 - 🌱 I’m currently learning **React.js**
 
